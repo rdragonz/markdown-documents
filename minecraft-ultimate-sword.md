@@ -24,6 +24,7 @@ These books need to be what's called "Pure", meaning they need to be only that s
 Here's an example of what I mean:
 
 ![Don't do this](https://i.imgur.com/xoqhAAV.png)
+
 ![Do this](https://i.imgur.com/jCd2aRy.png)
 
 The second image, with a book containing only mending is considered a "Pure" book, and the first image is not.
@@ -42,6 +43,7 @@ This can take a while, and you will often end up enchanting way too many low-lev
 2. Villager Trading
 The second best way to get the books you need is by trading with villagers. Librarian villagers can trade books for decent prices, especially things like Sharpness IV, and Fire Aspect II which are often difficult to get "pure" from enchanting. 
 ![Villager trading](https://i.imgur.com/dvvTUZd.png)
+
 One big benefit to trading with villagers is that you don't have to grind for XP, and you don't have to have a large supply of Lapis Lazuli. You do however need a lot of emeralds, which can be difficult to obtain unless you have a large villager farm already established. If you already have a villager farm that lets you produce a lot of villagers and emeralds very quickly, this may be the best method. In fact, it is for certain the easiest way to get a "pure" mending book, and may be beneficial if you have multiple players looking to get multiple books to make multiple swords.
 ### Avoid
 1. Fishing
@@ -50,6 +52,7 @@ Remember:
 ![Don't do this](https://i.imgur.com/xoqhAAV.png)![Do this](https://i.imgur.com/jCd2aRy.png)
 2. Combining low level books
 If you know anything about enchanting, you may be tempted to combine a bunch of low-level books to make higher level books, especially with sharpness, but it is absolutely not the best idea to do this at all. This is a really really easy way to make your final product (Or even an intermediate product) "too expensive" and should be avoided at all costs.
+
 ![Don't combine low-level books](https://i.imgur.com/PaGuOQW.png)
 
 
@@ -72,17 +75,24 @@ If that's a bit too complicated to understand in words, here's a diagram that sh
 ### Important!!!!!
 You need to combine the books using the minimum amount of XP for each combination. This can be achieved by swapping the orders of each combination to see which one costs the least amount of XP. If you don't do this, you will run into the dreaded "Too expensive" error exceedingly quickly. 
 Here's what I mean:
+
 ![Expensive!](https://i.imgur.com/DHrKjHy.png)
+
 This combination of books costs 4 levels. If we swap the two books around...
+
 ![Less cost!](https://i.imgur.com/pJtp3oW.png)
+
 This combination of the same two books costs only 2 levels. You ALWAYS want to check this with all combinations of books you make and only pick the cheapest one. This is how you can avoid the "Too expensive" error.
 
 Once you have all your books combined, this will be the resulting book:
+
 ![Final book](https://i.imgur.com/0EeNXFY.png)There we go, all enchantments on one book!
 
 ## 3. Putting the book on a sword
 This part is where you will need to grind up some levels. You can expect the final combination of putting the book on the sword to cost about 35-38 levels. In fact, you should have just enough space left over to name that fancy sword of yours.
+
 ![Final sword](https://i.imgur.com/BATwQSY.png)
+
 And that's it! You're all done, and you have the maximum possible enchanted sword in the game! Have fun!
 
 ![The Ultimate Sword](https://i.imgur.com/v1bJXuc.png)
