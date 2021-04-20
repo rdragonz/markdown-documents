@@ -3,6 +3,7 @@ Creating the ultimate sword in Minecraft is actually pretty easy, but there's a 
 When I say ultimate sword, I mean a sword with the maximum amount of possible enchantments, often referred to as a "God Sword".  Here's an example of what I mean
 
 ![The Ultimate Sword](https://i.imgur.com/v1bJXuc.png)
+
 It's often really hard to get to this stage without getting the "Too expensive" error in an anvil. This is because people often make a few mistakes in the process, that I will go over here and give you tricks on how to avoid.
 
 ## 1. Obtaining the proper books
@@ -21,8 +22,10 @@ Of course, you can swap Sharpness for Bane of Arthropods, or Smite if you really
 
 These books need to be what's called "Pure", meaning they need to be only that specific enchantment on the book. This means that you cannot have more than one enchantment on the base-level book. If you do, it could lead to the dreaded "Too Expensive" error on the final product.
 Here's an example of what I mean:
+
 ![Don't do this](https://i.imgur.com/xoqhAAV.png)
 ![Do this](https://i.imgur.com/jCd2aRy.png)
+
 The second image, with a book containing only mending is considered a "Pure" book, and the first image is not.
 
 You will need to ensure this is the case for absolutely all the books that you collect.
