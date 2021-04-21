@@ -36,7 +36,7 @@ Here's some tips for collecting the right books in the shortest amount of time p
 ### Do this
 
 1. Enchanting
-2. 
+ 
 The best way to collect books for your ultimate sword is to use an enchanting table.
 
 ![Enchanting](https://i.imgur.com/fPcLTXg.png)
