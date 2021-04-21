@@ -37,11 +37,15 @@ Here's some tips for collecting the right books in the shortest amount of time p
 
 1. Enchanting
 The best way to collect books for your ultimate sword is to use an enchanting table.
+
 ![Enchanting](https://i.imgur.com/fPcLTXg.png)
+
 This can take a while, and you will often end up enchanting way too many low-level books, and wasting a lot of Lapis Lazuli while doing so. You might want to set up a grindstone nearby to reclaim the books to re-enchant so that you don't have to go back and kill a lot of cows, set up a large sugar cane farm, or even continue raiding strongholds to get hold of more books.  If you're going to enchant things, be sure to go into it with a large supply of Lapis Lazuli already set, about a stack of books, and also be sure to have a good XP farm nearby to quickly get the levels you need.  I suggest building an enderman farm, like this one we have on our survival server.
+
 ![Enderman Farm](https://i.imgur.com/9lZfAqV.png)These are really simple to build. Here's a tutorial: https://www.youtube.com/watch?v=nh8voJScSbw
 2. Villager Trading
 The second best way to get the books you need is by trading with villagers. Librarian villagers can trade books for decent prices, especially things like Sharpness IV, and Fire Aspect II which are often difficult to get "pure" from enchanting. 
+
 ![Villager trading](https://i.imgur.com/dvvTUZd.png)
 
 One big benefit to trading with villagers is that you don't have to grind for XP, and you don't have to have a large supply of Lapis Lazuli. You do however need a lot of emeralds, which can be difficult to obtain unless you have a large villager farm already established. If you already have a villager farm that lets you produce a lot of villagers and emeralds very quickly, this may be the best method. In fact, it is for certain the easiest way to get a "pure" mending book, and may be beneficial if you have multiple players looking to get multiple books to make multiple swords.
@@ -71,6 +75,7 @@ Do it like this:
  - Combine the two final books together to get a final book with all enchantments.
 
 If that's a bit too complicated to understand in words, here's a diagram that shows you the exact right way to combine things to get the final book
+
 ![How to combine the books](https://i.imgur.com/fMOLxDi.jpg)
 ### Important!!!!!
 You need to combine the books using the minimum amount of XP for each combination. This can be achieved by swapping the orders of each combination to see which one costs the least amount of XP. If you don't do this, you will run into the dreaded "Too expensive" error exceedingly quickly. 
@@ -86,7 +91,9 @@ This combination of the same two books costs only 2 levels. You ALWAYS want to c
 
 Once you have all your books combined, this will be the resulting book:
 
-![Final book](https://i.imgur.com/0EeNXFY.png)There we go, all enchantments on one book!
+![Final book](https://i.imgur.com/0EeNXFY.png)
+
+There we go, all enchantments on one book!
 
 ## 3. Putting the book on a sword
 This part is where you will need to grind up some levels. You can expect the final combination of putting the book on the sword to cost about 35-38 levels. In fact, you should have just enough space left over to name that fancy sword of yours.
