@@ -46,6 +46,7 @@ This can take a while, and you will often end up enchanting way too many low-lev
 ![Enderman Farm](https://i.imgur.com/9lZfAqV.png)
 
 These are really simple to build. Here's a tutorial: https://www.youtube.com/watch?v=nh8voJScSbw
+
 2. Villager Trading
 
 The second best way to get the books you need is by trading with villagers. Librarian villagers can trade books for decent prices, especially things like Sharpness IV, and Fire Aspect II which are often difficult to get "pure" from enchanting. 
