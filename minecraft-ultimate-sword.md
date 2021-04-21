@@ -42,7 +42,9 @@ The best way to collect books for your ultimate sword is to use an enchanting ta
 
 This can take a while, and you will often end up enchanting way too many low-level books, and wasting a lot of Lapis Lazuli while doing so. You might want to set up a grindstone nearby to reclaim the books to re-enchant so that you don't have to go back and kill a lot of cows, set up a large sugar cane farm, or even continue raiding strongholds to get hold of more books.  If you're going to enchant things, be sure to go into it with a large supply of Lapis Lazuli already set, about a stack of books, and also be sure to have a good XP farm nearby to quickly get the levels you need.  I suggest building an enderman farm, like this one we have on our survival server.
 
-![Enderman Farm](https://i.imgur.com/9lZfAqV.png)These are really simple to build. Here's a tutorial: https://www.youtube.com/watch?v=nh8voJScSbw
+![Enderman Farm](https://i.imgur.com/9lZfAqV.png)
+
+These are really simple to build. Here's a tutorial: https://www.youtube.com/watch?v=nh8voJScSbw
 2. Villager Trading
 The second best way to get the books you need is by trading with villagers. Librarian villagers can trade books for decent prices, especially things like Sharpness IV, and Fire Aspect II which are often difficult to get "pure" from enchanting. 
 
@@ -53,7 +55,11 @@ One big benefit to trading with villagers is that you don't have to grind for XP
 1. Fishing
 Yes, you may be able to get lots of books while AFK from fishing, but almost none of them will be "pure". This may be an option if you really don't want to grind, but it will certainly take a lot longer to get the books you need than if you enchant or trade with villagers.
 Remember:
-![Don't do this](https://i.imgur.com/xoqhAAV.png)![Do this](https://i.imgur.com/jCd2aRy.png)
+
+![Don't do this](https://i.imgur.com/xoqhAAV.png)
+
+![Do this](https://i.imgur.com/jCd2aRy.png)
+
 2. Combining low level books
 If you know anything about enchanting, you may be tempted to combine a bunch of low-level books to make higher level books, especially with sharpness, but it is absolutely not the best idea to do this at all. This is a really really easy way to make your final product (Or even an intermediate product) "too expensive" and should be avoided at all costs.
 
