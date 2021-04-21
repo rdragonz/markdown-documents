@@ -36,6 +36,7 @@ Here's some tips for collecting the right books in the shortest amount of time p
 ### Do this
 
 1. Enchanting
+2. 
 The best way to collect books for your ultimate sword is to use an enchanting table.
 
 ![Enchanting](https://i.imgur.com/fPcLTXg.png)
@@ -46,6 +47,7 @@ This can take a while, and you will often end up enchanting way too many low-lev
 
 These are really simple to build. Here's a tutorial: https://www.youtube.com/watch?v=nh8voJScSbw
 2. Villager Trading
+
 The second best way to get the books you need is by trading with villagers. Librarian villagers can trade books for decent prices, especially things like Sharpness IV, and Fire Aspect II which are often difficult to get "pure" from enchanting. 
 
 ![Villager trading](https://i.imgur.com/dvvTUZd.png)
@@ -53,6 +55,7 @@ The second best way to get the books you need is by trading with villagers. Libr
 One big benefit to trading with villagers is that you don't have to grind for XP, and you don't have to have a large supply of Lapis Lazuli. You do however need a lot of emeralds, which can be difficult to obtain unless you have a large villager farm already established. If you already have a villager farm that lets you produce a lot of villagers and emeralds very quickly, this may be the best method. In fact, it is for certain the easiest way to get a "pure" mending book, and may be beneficial if you have multiple players looking to get multiple books to make multiple swords.
 ### Avoid
 1. Fishing
+
 Yes, you may be able to get lots of books while AFK from fishing, but almost none of them will be "pure". This may be an option if you really don't want to grind, but it will certainly take a lot longer to get the books you need than if you enchant or trade with villagers.
 Remember:
 
@@ -61,6 +64,7 @@ Remember:
 ![Do this](https://i.imgur.com/jCd2aRy.png)
 
 2. Combining low level books
+
 If you know anything about enchanting, you may be tempted to combine a bunch of low-level books to make higher level books, especially with sharpness, but it is absolutely not the best idea to do this at all. This is a really really easy way to make your final product (Or even an intermediate product) "too expensive" and should be avoided at all costs.
 
 ![Don't combine low-level books](https://i.imgur.com/PaGuOQW.png)
