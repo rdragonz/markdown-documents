@@ -172,6 +172,14 @@ Coming soon!!
 
 ## Installing
 
+### Why isn't this available on CurseForge/FTB Launcher/Other launcher?
+
+To put it simply, CurseForge **really** sucks. Their launcher is essentially malware, with the program also defaulting to installing Overwolf; An additional program that hasn't been relevant or good since 2013. FTB Launcher, on the other hand, hasn't really been used for a long time and it's mostly been replaced by CurseForge. [CurseForge also has a heavy-handed moderation approach that doesn't even allow for modpack authors to upload private versions of modpacks, and requires that every single detail of your branding, descriptions, and more go through intense scrutiny by a moderator that can often take days to complete](https://stickypiston.co/account/knowledgebase/139/How-to-Upload-and-Publish-your-Custom-Modpack-on-Curseforge.html). I believe that all of this combined is extremely unreasonable for modpack authors, especially for those of us that create small modpacks for groups of friends or for our own personal enjoyment.
+
+The alternative option here is to use something like MultiMC, a third-party launcher that is compatible with a ton of modpacks and allows for a lot of customization of exactly the sort of thing that modpack authors need to get their packs working. It also allows for easy imports of modpacks from third-party sources. [MultiMC is also open source and licensed under the Apache License](https://github.com/MultiMC/Launcher/).
+
+---
+
 To install ModCubed, you will need a few things. Don't worry, these steps may seem long but they're not that complicated! Most of the guide is just installing Java 8 in a way that doesn't mess up your main Java install, and installing MultiMC! If you already have Java 8 installed and you know where it's installed on your computer, you can skip to step 2 to set up MultiMC. If you already have MultiMC installed *and* Java 8, skip to step 3 to download and install the modpack.
 
 Also to note, these steps are for Windows. If you use MacOS or Linux, you're on your own for the Java installation, although the steps for MultiMC are basically the same.
