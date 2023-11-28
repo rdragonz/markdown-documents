@@ -65,106 +65,104 @@ ComputerCraft is included! Program away!
 
 This is just a list of all the mods included with the modpack excluding the compatibility, performance-enhancing, plugins, and library mods.
 
-- Actually Additions
-- Additional Pipes
-- Advanced Machines
-- Advanced Solar Panels
-- Akashic Tome
-- Applied Energistics 2
-- ArchitectureCraft
-- Aroma1997's Dimensional World
-- Astral Sourcery
-- Baubles
-- Better Advancements
-- Better Builder's Wands
-- BiblioCraft
-- Biomes O' Plenty
-- Blockcraftery
-- Blood Magic: Alchemical Wizardry
-- Bookshelf
-- Botania
-- Buildcraft
-- CC: Tweaked
-- Chance Cubes
-- Chest Transporter
-- Chickens
-- Chisels & Bits
-- Compact Solar Arrays
-- Cooking for Blockheads
-- Dark Utilities
-- DeepResonance
-- Draconic Evolution
-- Ender IO
-- EnderStorage
-- Energy Converters
-- Engineer's Workshop Reborn
-- Environmental Tech
-- Exchangers
-- Extra Utilities 2
-- Extreme Reactors
-- Flux Networks
-- Forestry
-- Galacticraft
-- Gendustry
-- GravityGun
-- Hatchery
-- ICBM Classic
-- Immersive Engineering
-- Industrial Foregoing
-- Industrialcraft 2
-- Inventory Tweaks
-- Iron Chest
-- JourneyMap
-- Just Enough Items
-- Long Fall Boots
-- The Lost Cities
-- Modular ForceField System
-- Morph-o-Tool
-- Natura
-- Nature's Compass
-- Not Enough Wands
-- OpenBlocks
-- Pam's HarvestCraft
-- Platforms
-- PortalGun
-- ProjectE
-- ProjectRed
-- QuantumStorage
-- Quark
-- Railcraft
-- Ranged Pumps
-- RebornStorage
-- Redstone Arsenal
-- Redstone Flux
-- Refined Storage
-- Reliquary
-- RFTools
-- Rustic
-- Secret Rooms 5
-- Simple Void World
-- Simply Jetpacks 2
-- Snad
-- Soul Shards Respawn
-- Steve's Carts 2
-- Storage Drawers
-- Tech Reborn
-- Thaumcraft
-- Thermal Cultivation
-- Thermal Dynamics
-- Thermal Expansion
-- Thermal Innovation
-- Thut's Elevators
-- Tinkers' Construct
-- TorchMaster
-- Translocators
-- The Twilight Forest
-- UniDict
-- Waystones
-- Wireless Crafting Terminal 2
-- Woot
-- XNet
-- Xtones
-- YABBA
+- [Actually Additions](https://www.curseforge.com/minecraft/mc-mods/actually-additions)
+- [Additional Pipes](https://www.curseforge.com/minecraft/mc-mods/additional-pipes-for-buildcraft)
+- [Advanced Machines](https://www.curseforge.com/minecraft/mc-mods/advanced-machines)
+- [Advanced Solar Panels](https://www.curseforge.com/minecraft/mc-mods/advanced-solar-panels)
+- [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome)
+- [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
+- [ArchitectureCraft](https://www.curseforge.com/minecraft/mc-mods/architecturecraft)
+- [Aroma1997's Dimensional World](https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world)
+- [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery)
+- [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)
+- [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
+- [Better Builder's Wands](https://www.curseforge.com/minecraft/mc-mods/better-builders-wands)
+- [BiblioCraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft)
+- [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+- [Blockcraftery](https://www.curseforge.com/minecraft/mc-mods/blockcraftery)
+- [Blood Magic: Alchemical Wizardry](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
+- [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
+- [Buildcraft](https://www.curseforge.com/minecraft/mc-mods/buildcraft)
+- [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
+- [Chance Cubes](https://www.curseforge.com/minecraft/mc-mods/chance-cubes)
+- [Chest Transporter](https://www.curseforge.com/minecraft/mc-mods/chest-transporter)
+- [Chickens](https://www.curseforge.com/minecraft/mc-mods/chickens)
+- [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
+- [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
+- [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities)
+- [DeepResonance](https://www.curseforge.com/minecraft/mc-mods/deep-resonance)
+- [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)
+- [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io)
+- [EnderStorage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
+- [Energy Converters](https://www.curseforge.com/minecraft/mc-mods/energy-converters)
+- [Engineer's Workshop Reborn](https://www.curseforge.com/minecraft/mc-mods/engineers-workshop-reborn)
+- [Environmental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech)
+- [Exchangers](https://www.curseforge.com/minecraft/mc-mods/exchangers)
+- [Extra Utilities 2](https://www.curseforge.com/minecraft/mc-mods/extra-utilities)
+- [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)
+- [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)
+- [Forestry](https://www.curseforge.com/minecraft/mc-mods/forestry)
+- [Galacticraft](https://wiki.micdoodle8.com/wiki/Galacticraft)
+- [Gendustry](https://www.curseforge.com/minecraft/mc-mods/gendustry)
+- [GravityGun](https://www.curseforge.com/minecraft/mc-mods/gravity-gun)
+- [Hatchery](https://www.curseforge.com/minecraft/mc-mods/hatchery)
+- [ICBM Classic](https://www.curseforge.com/minecraft/mc-mods/icbm-classic)
+- [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
+- [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
+- [Industrialcraft 2](https://www.curseforge.com/minecraft/mc-mods/industrial-craft)
+- [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks)
+- [Iron Chest](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
+- [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
+- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
+- [Long Fall Boots](https://www.curseforge.com/minecraft/mc-mods/long-fall-boots)
+- [The Lost Cities](https://www.curseforge.com/minecraft/mc-mods/the-lost-cities)
+- [Modular ForceField System](https://www.curseforge.com/minecraft/mc-mods/modular-forcefield-system)
+- [Morph-o-Tool](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool)
+- [Natura](https://www.curseforge.com/minecraft/mc-mods/natura)
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
+- [Not Enough Wands](https://www.curseforge.com/minecraft/mc-mods/not-enough-wands)
+- [OpenBlocks](https://www.curseforge.com/minecraft/mc-mods/openblocks)
+- [Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft)
+- [Platforms](https://www.curseforge.com/minecraft/mc-mods/platforms)
+- [PortalGun](https://www.curseforge.com/minecraft/mc-mods/portal-gun)
+- [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte)
+- [ProjectRed](https://www.curseforge.com/minecraft/mc-mods/project-red-core)
+- [QuantumStorage](https://www.curseforge.com/minecraft/mc-mods/quantumstorage)
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
+- [Railcraft](https://www.curseforge.com/minecraft/mc-mods/railcraft)
+- [Ranged Pumps](https://www.curseforge.com/minecraft/mc-mods/ranged-pumps)
+- [RebornStorage](https://www.curseforge.com/minecraft/mc-mods/rebornstorage)
+- [Redstone Arsenal](https://www.curseforge.com/minecraft/mc-mods/redstone-arsenal)
+- [Redstone Flux](https://www.curseforge.com/minecraft/mc-mods/redstone-flux)
+- [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
+- [Reliquary](https://www.curseforge.com/minecraft/mc-mods/reliquary-reincarnations)
+- [RFTools](https://www.curseforge.com/minecraft/mc-mods/rftools)
+- [Rustic](https://www.curseforge.com/minecraft/mc-mods/rustic)
+- [Secret Rooms 5](https://www.curseforge.com/minecraft/mc-mods/secretroomsmod)
+- [Simple Void World](https://www.curseforge.com/minecraft/mc-mods/simple-void-world)
+- [Simply Jetpacks 2](https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks-2)
+- [Snad](https://www.curseforge.com/minecraft/mc-mods/snad)
+- [Soul Shards Respawn](https://www.curseforge.com/minecraft/mc-mods/soul-shards-respawn)
+- [Steve's Carts 2](https://www.curseforge.com/minecraft/mc-mods/steves-carts-reborn)
+- [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
+- [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)
+- [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)
+- [Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)
+- [Thermal Dynamics](https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics)
+- [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)
+- [Thermal Innovation](https://www.curseforge.com/minecraft/mc-mods/thermal-innovation)
+- [Thut's Elevators](https://www.curseforge.com/minecraft/mc-mods/thuts-elevators)
+- [Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
+- [TorchMaster](https://www.curseforge.com/minecraft/mc-mods/torchmaster)
+- [Translocators](https://www.curseforge.com/minecraft/mc-mods/translocators)
+- [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+- [UniDict](https://www.curseforge.com/minecraft/mc-mods/unidict)
+- [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
+- [Wireless Crafting Terminal 2](https://www.curseforge.com/minecraft/mc-mods/wireless-crafting-terminal)
+- [Woot](https://www.curseforge.com/minecraft/mc-mods/woot)
+- [XNet](https://www.curseforge.com/minecraft/mc-mods/xnet)
+- [Xtones](https://www.curseforge.com/minecraft/mc-mods/xtones)
+- [YABBA](https://www.curseforge.com/minecraft/mc-mods/yabba)
 
 ![](https://i.imgur.com/N5z3myx.jpg)
 
