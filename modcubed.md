@@ -257,7 +257,7 @@ From here, we will need to navigate to that "Location" folder we made a note of 
 
     C:\Program Files\Eclipse Adoptium\jre-8.0.392.8-hotspot
 
-**!! IMPORTANT!!**
+**!! IMPORTANT !!**
 
 This location may be different on your computer! Please make sure you're not copy-pasting everything exactly and that you're double-checking that you're browsing to the "Location" folder you saw when you installed Java!!
 
