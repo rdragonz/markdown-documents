@@ -1,6 +1,6 @@
 # ModCubed
 
-![](https://i.imgur.com/s0Aq3Yc.png)
+![](https://i.imgur.com/4Vabagb.png)
 
 ### Current version: 1.0.0
 
