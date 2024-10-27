@@ -53,7 +53,7 @@ Steve's Carts and Railcraft!
 
 ### Feeling lucky?
 
-Chance Cubes are included for your amusement. But watch out, you'll probably get unlucky!
+Chance Cubes are included for your amusement. But watch out, the house always wins!
 
 ### Computers inside computers inside computers inside computers inside...
 
